@@ -7,5 +7,5 @@ I had to code this homework to my college and I was kinda bored, it was an OOP l
 
 it does need some adjustments, like happiness never decreases and energy and hunger are the same thing. But I plan to change it.
 
-It's a very simple code made on a lazy sunday, there is no need to explain the classes and it's methods.
+It's a very simple code made on a lazy sunday, It does use Threads so you can see the animation and insert an input, but there is no need to explain the classes and it's methods.
 
